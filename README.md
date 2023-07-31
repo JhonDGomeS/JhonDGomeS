@@ -10,7 +10,7 @@ Cocriador da página DES Codex 💻 🐺 </h3>
 <p align="center">
 <a href="https://fb.com/jhonatan dias gomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhonatan dias gomes" height="30" width="40" /></a>
 <a href="https://instagram.com/jhondgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhondgomes" height="30" width="40" /></a>
-<a href="https://instagram.com/jhondgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="des_codex" height="30" width="40" /></a>
+<a href="https://instagram.com/descodex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="des_codex" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/des codex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="des codex" height="30" width="40" /></a>
 </p>
 
